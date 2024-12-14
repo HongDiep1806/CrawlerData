@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IntroductionToRedis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|e:\\introductiontoredis\\introductiontoredis\\controllers\\crawlerdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|solutionrelative:introductiontoredis\\controllers\\crawlerdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|e:\\introductiontoredis\\introductiontoredis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|solutionrelative:introductiontoredis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|e:\\introductiontoredis\\introductiontoredis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|solutionrelative:introductiontoredis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|e:\\introductiontoredis\\introductiontoredis\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|solutionrelative:introductiontoredis\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|e:\\introductiontoredis\\introductiontoredis\\badge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|solutionrelative:introductiontoredis\\badge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|e:\\introductiontoredis\\introductiontoredis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|solutionrelative:introductiontoredis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|e:\\introductiontoredis\\introductiontoredis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|solutionrelative:introductiontoredis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|e:\\introductiontoredis\\introductiontoredis\\distributedcacheextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24C7D4E-6DEB-4B72-AD64-C224B887B5A0}|IntroductionToRedis\\IntroductionToRedis.csproj|solutionrelative:introductiontoredis\\distributedcacheextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrawlerDataController.cs",
+              "DocumentMoniker": "E:\\IntroductionToRedis\\IntroductionToRedis\\Controllers\\CrawlerDataController.cs",
+              "RelativeDocumentMoniker": "IntroductionToRedis\\Controllers\\CrawlerDataController.cs",
+              "ToolTip": "E:\\IntroductionToRedis\\IntroductionToRedis\\Controllers\\CrawlerDataController.cs",
+              "RelativeToolTip": "IntroductionToRedis\\Controllers\\CrawlerDataController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwGQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:47:09.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "E:\\IntroductionToRedis\\IntroductionToRedis\\APIResponse.cs",
+              "RelativeDocumentMoniker": "IntroductionToRedis\\APIResponse.cs",
+              "ToolTip": "E:\\IntroductionToRedis\\IntroductionToRedis\\APIResponse.cs",
+              "RelativeToolTip": "IntroductionToRedis\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:45:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Badge.cs",
+              "DocumentMoniker": "E:\\IntroductionToRedis\\IntroductionToRedis\\Badge.cs",
+              "RelativeDocumentMoniker": "IntroductionToRedis\\Badge.cs",
+              "ToolTip": "E:\\IntroductionToRedis\\IntroductionToRedis\\Badge.cs",
+              "RelativeToolTip": "IntroductionToRedis\\Badge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:45:17.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\IntroductionToRedis\\IntroductionToRedis\\Product.cs",
+              "RelativeDocumentMoniker": "IntroductionToRedis\\Product.cs",
+              "ToolTip": "E:\\IntroductionToRedis\\IntroductionToRedis\\Product.cs",
+              "RelativeToolTip": "IntroductionToRedis\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:44:46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\IntroductionToRedis\\IntroductionToRedis\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "IntroductionToRedis\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\IntroductionToRedis\\IntroductionToRedis\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "IntroductionToRedis\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:43:05.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\IntroductionToRedis\\IntroductionToRedis\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "IntroductionToRedis\\WeatherForecast.cs",
+              "ToolTip": "E:\\IntroductionToRedis\\IntroductionToRedis\\WeatherForecast.cs",
+              "RelativeToolTip": "IntroductionToRedis\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:42:56.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\IntroductionToRedis\\IntroductionToRedis\\Program.cs",
+              "RelativeDocumentMoniker": "IntroductionToRedis\\Program.cs",
+              "ToolTip": "E:\\IntroductionToRedis\\IntroductionToRedis\\Program.cs",
+              "RelativeToolTip": "IntroductionToRedis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:27:39.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DistributedCacheExtensions.cs",
+              "DocumentMoniker": "E:\\IntroductionToRedis\\IntroductionToRedis\\DistributedCacheExtensions.cs",
+              "RelativeDocumentMoniker": "IntroductionToRedis\\DistributedCacheExtensions.cs",
+              "ToolTip": "E:\\IntroductionToRedis\\IntroductionToRedis\\DistributedCacheExtensions.cs",
+              "RelativeToolTip": "IntroductionToRedis\\DistributedCacheExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:38:42.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
